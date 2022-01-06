@@ -1,2 +1,1 @@
-# C-projects
-これらはC言語です
+# An old vesion.
